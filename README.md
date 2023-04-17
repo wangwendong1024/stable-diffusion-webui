@@ -1,6 +1,7 @@
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
-
+conda activate C:\ProgramData\Anaconda3\envs\stable-diffusion-webui
+C:\ProgramData\Anaconda3\Scripts\conda.exe install -p C:/ProgramData/Anaconda3/envs/stable-diffusion-webui ldm -y
 ![](screenshot.png)
 
 ## Features
